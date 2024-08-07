@@ -1,0 +1,104 @@
+commit 106b3fadb235d6a71a94610a56b88f718c2392b7
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 23:05:08 2024 -0500
+
+    Agregando parrafos
+
+commit f3f3fe01dd9581011d8a8ac17086111abbfd36dd
+Merge: 461894b 23649d7
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:56:58 2024 -0500
+
+    Despues del conflicto
+
+commit 461894be198e5bc00340bb1032211d7c63af41fd
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:43:10 2024 -0500
+
+    Agregando ahora 4 estaciones con fechas
+
+commit 23649d73a1d149734658d499e327ea208a79752a
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:43:10 2024 -0500
+
+    agregando 3 estaciones del año
+
+commit 35ffeab91b42ef7d74d63a4a10e1b38faac81258
+Merge: cf4a501 72a680c
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:38:36 2024 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 72a680c6fe52a08cda021d78acf07f1c3d0785fe
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:33:18 2024 -0500
+
+    Agregando style.css al index.html
+
+commit cf4a5015457bc652cb5b0b0d41e2b388807319b0
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:31:09 2024 -0500
+
+    Agregando style.css al index.html
+
+commit fe748d4ef9a06d191532936a5b7e4a4409270e33
+Merge: 51c455f 88394ac
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:24:22 2024 -0500
+
+    Merge branch 'js'
+
+commit 88394ac03f23a1dfe6a3699d283d4a18707f5fea
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:23:58 2024 -0500
+
+    creando hola mundo
+
+commit 526dfa9fb9b320b108cb020803ea93042e36c7df
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:11:55 2024 -0500
+
+    creando js
+
+commit 51c455f13520c7b96cbe37029fb8c7836b48f184
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:06:50 2024 -0500
+
+    Agregando rama css
+
+commit db3704ae62e984410f2ad9a3524210c0c8b98144
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:06:13 2024 -0500
+
+    Agregando rama css
+
+commit d1f28c5967c5cb8a1941fbb773e17fb6948382b5
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 22:01:01 2024 -0500
+
+    creando archivo index.html
+
+commit 454929bf560f3fd2d76c147cb751964a32609c3d
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 21:42:19 2024 -0500
+
+    proyecto de prueba
+
+commit 7facfa45d84eca877138ca0c97a1ce068e7be398
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 21:08:04 2024 -0500
+
+    Creacion de archivo .txt
+
+commit 418287caae252c3628a9e76f884b7ca45e72b172
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 21:07:01 2024 -0500
+
+    Creacion de archivo .txt
+
+commit b43c422e099e36f3bc73f42d6c1950aa2e1653db
+Author: 2morrow <morrisaxel963@gmail.com>
+Date:   Tue Aug 6 20:54:38 2024 -0500
+
+    Agregando contenido inicial al README
